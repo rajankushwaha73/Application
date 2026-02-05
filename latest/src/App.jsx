@@ -7,7 +7,7 @@ export default function App() {
 
   return (
     <div>
-      
+      ``
       <h1>Hello</h1>
       <Header />
       <h2>Welcome to the first class</h2>

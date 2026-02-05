@@ -1,0 +1,8 @@
+export default function Footer(){
+    return(
+        <div>
+        <h2>This is Footer Component</h2>
+        <p>Thank you for visiting our website!</p>
+        </div>
+    )
+}
